@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>página web</title>
+    <link>index.html</link>
+    <description>Pagina web de ejemplo, me gustan las oreos punto punto punto</description>
+    <language>es</language>
+    <copyright>NO</copyright>
+    <item>
+      <title>MANOS ARRIBA</title>
+      <link>index.html</link>
+      <description>MANOS ARRIBA ESTO ES UN ATRACO</description>
+      <pubDate>Miercoles, 25 Abril 2023 10:20:53</pubDate>
+    </item>
+  </channel>
+</rss>
